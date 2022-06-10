@@ -2,16 +2,17 @@ package pers.zhaominsu.mymall.product.entity;
 
 import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;
-import lombok.Data;
 
 import java.io.Serializable;
+import java.util.Date;
+import lombok.Data;
 
 /**
  * 品牌分类关联
- *
- * @author zsy
- * @email 594983498@qq.com
- * @date 2019-11-17 21:25:25
+ * 
+ * @author zhaominsu
+ * @email suzhaomin666@gmail.com
+ * @date 2022-06-10 23:24:44
  */
 @Data
 @TableName("pms_category_brand_relation")
@@ -19,7 +20,7 @@ public class CategoryBrandRelationEntity implements Serializable {
 	private static final long serialVersionUID = 1L;
 
 	/**
-	 *
+	 * 
 	 */
 	@TableId
 	private Long id;
@@ -32,11 +33,11 @@ public class CategoryBrandRelationEntity implements Serializable {
 	 */
 	private Long catelogId;
 	/**
-	 *
+	 * 
 	 */
 	private String brandName;
 	/**
-	 *
+	 * 
 	 */
 	private String catelogName;
 

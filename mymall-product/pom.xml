@@ -33,6 +33,7 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <!--        依赖common类-->
         <dependency>
             <groupId>pers.zhaominsu.mymall</groupId>
             <artifactId>mymall-common</artifactId>

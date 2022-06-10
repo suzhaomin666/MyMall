@@ -6,9 +6,9 @@
  * 版权所有，侵权必究！
  */
 
-package pers.zhaominsu.mymall.common.xss;
+package pers.zhaominsu.common.xss;
 
-import pers.zhaominsu.mymall.common.exception.RRException;
+import io.renren.common.exception.RRException;
 import org.apache.commons.lang.StringUtils;
 
 /**

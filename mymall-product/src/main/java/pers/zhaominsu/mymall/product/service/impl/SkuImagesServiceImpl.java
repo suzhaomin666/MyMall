@@ -5,8 +5,8 @@ import java.util.Map;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import pers.zhaominsu.mymall.common.utils.PageUtils;
-import pers.zhaominsu.mymall.common.utils.Query;
+import pers.zhaominsu.common.utils.PageUtils;
+import pers.zhaominsu.common.utils.Query;
 
 import pers.zhaominsu.mymall.product.dao.SkuImagesDao;
 import pers.zhaominsu.mymall.product.entity.SkuImagesEntity;

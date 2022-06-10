@@ -1,4 +1,4 @@
-package pers.zhaominsu.mymall.common.xss;
+package pers.zhaominsu.common.xss;
 
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;

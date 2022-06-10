@@ -6,7 +6,7 @@
  * 版权所有，侵权必究！
  */
 
-package pers.zhaominsu.mymall.common.utils;
+package pers.zhaominsu.common.utils;
 
 /**
  * 常量
