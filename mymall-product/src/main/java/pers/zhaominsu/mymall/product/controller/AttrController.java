@@ -11,8 +11,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import pers.zhaominsu.mymall.common.utils.PageUtils;
-import pers.zhaominsu.mymall.common.utils.R;
+
+import pers.zhaominsu.common.utils.PageUtils;
+import pers.zhaominsu.common.utils.R;
 import pers.zhaominsu.mymall.product.entity.AttrEntity;
 import pers.zhaominsu.mymall.product.service.AttrService;
 

@@ -34,7 +34,6 @@
             <scope>test</scope>
         </dependency>
 
-
         <!--简化实体类，用@Data代替getset方法-->
         <dependency>
             <groupId>org.projectlombok</groupId>
@@ -100,15 +99,8 @@
         <!-- mybatisPLUS-->
         <dependency>
             <groupId>com.baomidou</groupId>
-            <artifactId>mybatis-plus-core</artifactId>
-            <version>3.3.1</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.baomidou</groupId>
-            <artifactId>mybatis-plus-extension</artifactId>
-            <version>3.3.1</version>
-            <scope>compile</scope>
+            <artifactId>mybatis-plus-boot-starter</artifactId>
+            <version>3.4.2</version>
         </dependency>
         <dependency>
             <groupId>joda-time</groupId>

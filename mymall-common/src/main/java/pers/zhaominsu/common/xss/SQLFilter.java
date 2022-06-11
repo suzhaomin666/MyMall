@@ -8,8 +8,8 @@
 
 package pers.zhaominsu.common.xss;
 
-import io.renren.common.exception.RRException;
 import org.apache.commons.lang.StringUtils;
+import pers.zhaominsu.common.exception.RRException;
 
 /**
  * SQL过滤

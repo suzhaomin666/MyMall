@@ -2,7 +2,8 @@ package pers.zhaominsu.mymall.product.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
 
-import pers.zhaominsu.mymall.common.utils.PageUtils;
+
+import pers.zhaominsu.common.utils.PageUtils;
 import pers.zhaominsu.mymall.product.entity.AttrEntity;
 
 import java.util.Map;
