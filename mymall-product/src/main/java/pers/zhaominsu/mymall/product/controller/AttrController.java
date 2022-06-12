@@ -11,12 +11,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-
-import pers.zhaominsu.common.utils.PageUtils;
-import pers.zhaominsu.common.utils.R;
 import pers.zhaominsu.mymall.product.entity.AttrEntity;
 import pers.zhaominsu.mymall.product.service.AttrService;
-
+import pers.zhaominsu.common.utils.PageUtils;
+import pers.zhaominsu.common.utils.R;
 
 
 
@@ -25,7 +23,7 @@ import pers.zhaominsu.mymall.product.service.AttrService;
  *
  * @author zhaominsu
  * @email suzhaomin666@gmail.com
- * @date 2022-06-10 23:24:44
+ * @date 2022-06-12 20:01:19
  */
 @RestController
 @RequestMapping("product/attr")
